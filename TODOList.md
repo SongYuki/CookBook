@@ -1,0 +1,93 @@
+﻿# TODOList
+
+标签： data structure
+
+---
+
+ - SequenceList 单链表（顺序存储）
+ - Union 
+ - MergeSqList 顺序存储
+ - SinglyLinkedList 单链表（链式存储）
+ - MergeList 链式存储
+ - StaticLinkedList 静态链表
+ - Difference 
+ - DualCycleLinkedList 双循环链表
+ - ExtenLinkedList 扩展的单链表
+ - MergeEList
+ - Polynomial 一元多项式
+ - SequenceStack 栈（顺序存储）
+ - Conversion 进制转换
+ - LineEdit 行编辑程序
+ - Maze 迷宫
+ - Expression 表达式求值
+ - Hanoi 汉诺塔
+ - LinkQueue 队列（链式存储）
+ - CylSeqQueue 循环队列
+ - BankQueuing 模拟银行排队
+ - SequenceString 串（顺序存储）
+ - HeapString 串（堆存储）
+ - BlockChainString 串（块链存储）
+ - KMP KMP匹配算法
+ - WordIndexTable 索引表创建
+ - SequenceArray 数组（顺序存储）
+ - TripleSqarseMatrix 三元顺序表（稀疏矩阵）
+ - RowLinkSqarseMatrix 行逻辑链接的顺序表（稀疏矩阵）
+ - CrossList 十字链表（稀疏矩阵）
+ - GeneralizedList-H&T 广义表（头尾链表存储表示）
+ - GeneralizedList-E 广义表（扩展线性链表存储表示）
+ - SequenceBinaryTree 二叉树（顺序存储）
+ - BinaryTree 二叉树（二叉链表存储）
+ - Tri_BinaryTree 二叉树（三叉链表存储）
+ - ThreadBinaryTree 线索二叉树
+ - ParentTree 树的双亲表示
+ - ChildTree 树的孩子表示（带双亲）存储表示
+ - ChildSiblingTree 树的二叉链表（孩子-兄弟）表示
+ - MFSet 并查集（等价类，集合）
+ - HuffmanTree 哈夫曼树
+ - PowerSet 幂集
+ - NQueens N皇后问题
+ - MGraph 图，表（数组表示法）
+ - ALGraph 图（邻接法）
+ - OLGraph 有向图（十字链表）
+ - AMLGraph 无向图（邻接多重表）
+ - SpanningTree 无向图生成树
+ - StronglyConnectedComponents 强连通分量
+ - MiniSpanningTree 最小生成树
+ - ArticulationPoint 无向图关节点
+ - TopologicalSort 有向图拓扑排序
+ - CriticalPath AOE-网关键路径
+ - ShortestPath 最短路径（Dijkstra算法和Floyd算法）
+ - BoundaryTagMethod 边界标识法（动态存储管理）
+ - BuddySystem 伙伴系统（动态存储管理）
+ - GarbageCollection 无用单元搜集（动态存储管理）
+ - StorageCompacting 存储紧缩（动态存储管理）
+ - Base 通用查找表存储结构
+ - SequenceSearch 顺序查找（无序表）
+ - Binsearch 折半查找（二分查找）
+ - FibonacciSearch 斐波那契查找
+ - InterpolationSearch 插值查找
+ - NearlyOptimalSearchTree 次优查找树
+ - BinarySortTree 二叉排序/查找/搜索树
+ - BalancedBinarySortTree 平衡二叉排序/查找/搜索树
+ - B-Tree B树/B-树/B_树
+ - B+Tree B+树
+ - DLTree 双链树
+ - TrieTree 键树（字典树）
+ - HashTable 哈希查找表
+ - SequenceListType 通用排序表顺序表存储结构
+ - StaticLinkedListType 通用排序表静态链表存储结构
+ - InsertSort 直接插入排序
+ - BInsertSort 折半插入排序
+ - 2-InsertSort 2-路插入排序
+ - TInsertSort 表插入排序
+ - ShellSort 希尔插入排序
+ - BubbleSort 气泡排序
+ - QuickSort 快速排序
+ - SelectSort 简单选择排序
+ - HeapSort 堆排序
+ - MergingSort 归并排序
+ - RadixSort 基数排序
+ - AddressSort 顺序表地址排序
+ - LoserTree 败者树
+ - ReSeSort 置换选择排序
+ - SequentialFile 文件归并
